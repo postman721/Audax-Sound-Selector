@@ -1,4 +1,4 @@
-# Audax-Sound-Selector
+# Audax-Sound-Selector(Bash)
 
 Recently I have been in a quite a hurry but now it is time to return to the wonderful world of Linux once again. Here is one of my recent makings titled as Audax sound selector. The program works within a command line a.k.a. terminal client.  Its sole purpose is to ease the selection of sound cards if you have multiple devices. For example: In the year 2007 I used to have a Soundblaster card along with an integrated Intel sound card inside my computer.
 
